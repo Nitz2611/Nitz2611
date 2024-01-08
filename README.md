@@ -17,6 +17,10 @@
 - **Database:** MongoDB, MySql
 - **Tools:** Git, GitHub Actions, Vs-Code
 
+## 🤝 Open to Collaboration
+
+I'm always open to collaborating on interesting projects. If you have an idea or just want to chat, feel free to reach out!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sharmanitish183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharmanitish183" height="30" width="40" /></a>
