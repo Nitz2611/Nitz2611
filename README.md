@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nitish sharma</h1>
-<h3 align="center">A passionate Full stack web developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer on a journey to create meaningful and innovative web applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitz2611" alt="nitz2611" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack , electron**
+## 💼 About Me
 
-- 💬 Ask me about **react, javascript**
-
+- 🔭 I’m currently freelancing, turning ideas into code.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 💬 Ask me about anything related to web development or tech in general.
 - 📫 How to reach me **sharmanitish183@gmail.com**
+
+## 🚀 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub Actions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
