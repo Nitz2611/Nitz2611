@@ -14,8 +14,8 @@
 
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub Actions
+- **Database:** MongoDB, MySql
+- **Tools:** Git, GitHub Actions, Vs-Code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
