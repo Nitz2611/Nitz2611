@@ -11,7 +11,7 @@
 - 💬 Ask me about anything related to web development or tech in general.
 - 📫 How to reach me **sharmanitish183@gmail.com**
 
-## 🚀 Tech Stack
+## 🚀Current Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js
