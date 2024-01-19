@@ -36,5 +36,8 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nitz2611&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nitz2611&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nitz2611&theme=dark&border_radius=6&card_width=500)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitz2611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
