@@ -35,9 +35,9 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 ![](https://github-contributor-stats.vercel.app/api?username=Nitz2611&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nitz2611?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
+![Nitz2611's Stats](https://github-readme-stats.vercel.app/api?username=Nitz2611&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nitz2611&theme=dark&border_radius=6&card_width=500)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitz2611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Nitz2611's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitz2611&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
