@@ -6,7 +6,7 @@
 
 ## 💼 About Me
 
-- 🔭 I’m currently freelancing, turning ideas into code.
+- 🔭 I’m currently freelancing, and also looking for full time work.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 💬 Ask me about anything related to web development or tech in general.
 - 📫 How to reach me **sharmanitish183@gmail.com**
